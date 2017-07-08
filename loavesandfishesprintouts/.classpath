@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/tefape-form/loavesandfishesprintouts/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/tefape-form/loavesandfishesprintouts/lib/itextpdf-5.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/tefape-form/loavesandfishesprintouts/lib/mysql-connector-java-5.1.31-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/pdfsam-console-2.4.3e.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/bcmail-jdk14-144.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/bcprov-jdk14-144.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/emp4j-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/jai_codec.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/jai_core.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/jaxen-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/looks-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/pdfsam-jcmdline-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/PDF Split And Merge Basic/lib/pdfsam-langpack.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
